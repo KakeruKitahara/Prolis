@@ -69,7 +69,7 @@ const Title = () => {
           </Button>
         </div>
         <div className={Styles.copyright}>
-          Copyright Since 2022 Iino, Watatani, kaji. All rights reserved.
+          Copyright Since 2022 Kakerukitahara, Watatani, kaji. All rights reserved.
         </div>
       </div>
     </main>
